@@ -1,0 +1,11 @@
+{
+  "ReferencesAndLinks": ["None"],
+  "Authors": [
+    "Paul Kieffaber",
+    "Makenna McGill"
+  ],
+  "Name": "SpatialMemory",
+  "License": "CC0",
+  "BIDSVersion": "1.8.0",
+  "HEDVersion": "8.1.0"
+}

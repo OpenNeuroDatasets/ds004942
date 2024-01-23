@@ -1,0 +1,33 @@
+{
+  "PowerLineFrequency": 60,
+  "SoftwareFilters": {
+    "FilterDescription": {
+      "Description": ".01-100Hz"
+    }
+  },
+  "HardwareFilters": {
+    "FilterDescription": {
+      "Description": ".001-1000Hz"
+    }
+  },
+  "SoftwareVersions": "Sensorium",
+  "DeviceSerialNumber": "None",
+  "ManufacturersModelName": "DBPA-1",
+  "Manufacturer": "Sensorium Inc.",
+  "EEGPlacementScheme": "10-20",
+  "EEGGround": "Forehead",
+  "EEGReference": "Nosetip",
+  "CapManufacturersModelName": "None",
+  "CapManufacturer": "Electrocap",
+  "InstitutionAddress": "Williamsburg, VA",
+  "InstitutionalDepartmentName": "Psychological Sciences",
+  "InstitutionName": "College of William & Mary",
+  "TaskName": "SpatialMemory",
+  "EEGChannelCount": 65,
+  "RecordingType": "continuous",
+  "RecordingDuration": 1248,
+  "SamplingFrequency": 1000,
+  "EOGChannelCount": 0,
+  "ECGChannelCount": 0,
+  "EMGChannelCount": 0
+}
